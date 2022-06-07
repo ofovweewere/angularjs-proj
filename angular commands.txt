@@ -1,1 +1,12 @@
 1. browser-sync start --server --directory --files "**/*"
+
+2. git initialize command
+	echo "# angularjs-proj" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ofovweewere/angularjs-proj.git
+git push -u origin main
+
+3. git status (used to check file status on git)
